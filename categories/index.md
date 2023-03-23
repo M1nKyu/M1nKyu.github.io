@@ -1,4 +1,5 @@
 ---
 layout: categories
-title: OSS Dev
+title: Categories
+categories: [OSS-DEV]
 ---
