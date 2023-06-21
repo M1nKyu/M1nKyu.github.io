@@ -107,8 +107,8 @@ author:
   name             : "Kang-Minkyu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Donga University"
-  location         : "Busan, Korea"
-  email            :
+  location         : "Pohang, Korea"
+  email            : 01.minkyu@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
