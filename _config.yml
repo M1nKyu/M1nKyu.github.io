@@ -18,7 +18,7 @@ minimal_mistakes_skin    : aqua # "air", "aqua", "contrast", "dark", "dirt", "ne
 locale                   : "en-US"
 title                    : "Blog"
 title_separator          : "-"
-subtitle                 : "강민규 블로그"
+subtitle                 : "Q 노트"
 name                     : "KangMinkyu"
 description              : "An amazing website."
 url                      : "https://M1nKyu.github.io"
