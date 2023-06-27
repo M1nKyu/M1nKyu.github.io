@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "dcc2572bffd05ab2",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbac0c604fa8110a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01758dfca0012bfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-03-23-first.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea7e7ba3a3d9fdb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "993f19803235e35f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9448abebac5c690f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b37e7ba7c8b673d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c16a679698382cf1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7acc75546a1b0636",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad5b81f2f35bffd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "572902c90466c0b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2023-03-23-first.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d96ffdeda12c1f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2023-03-23-first.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a07d366e6b7e9870",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dbad2ad608e06bd1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2023-03-23-first.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "01758dfca0012bfa",
+  "lastOpenFiles": [
+    "images/2023-03-23-first/cartoon1.jpg",
+    "screenshot.png",
+    "screenshot-layouts.png",
+    "_posts/2023-03-23-first.md",
+    "images/2023-03-23-first",
+    "_posts/2023-06-21-start.md",
+    "_posts/2023-06-21-github.md",
+    "cartoon1.jpg.md",
+    "README.md",
+    "images/2021-03-23-posting.jpg",
+    "images",
+    "CHANGELOG.md"
+  ]
+}
