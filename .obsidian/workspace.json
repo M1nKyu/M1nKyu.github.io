@@ -11,8 +11,12 @@
             "id": "01758dfca0012bfa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-06-27-05-카테고리,태그.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-06-27-05-카테고리,태그.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-06-27-05-카테고리,태그.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-06-27-05-카테고리,태그.md"
+              }
             }
           }
         ]
@@ -138,14 +146,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9448abebac5c690f",
+  "active": "01758dfca0012bfa",
   "lastOpenFiles": [
-    "_posts/2023-06-27-05-카테고리,태그.md",
     "_posts/2023-06-27-04-페이지, 타임존.md",
     "_posts/2023-06-27-03-댓글, 방문자.md",
-    "_posts/2023-06-27-02-블로그 설정.md",
     "_posts/2023-06-27-01-이미지 삽입.md",
+    "_posts/2023-06-27-02-블로그 설정.md",
     "_posts/2023-06-27-00-포스팅.md",
+    "_posts/2023-06-27-05-카테고리,태그.md",
     "categories/index.md",
     "README.md",
     "CHANGELOG.md",
