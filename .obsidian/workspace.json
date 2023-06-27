@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-03-23-first.md",
+                "file": "_posts/2023-06-27-02-블로그 설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7acc75546a1b0636",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-03-23-first.md",
+                "file": "_posts/2023-06-27-02-블로그 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-03-23-first.md",
+                "file": "_posts/2023-06-27-02-블로그 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-03-23-first.md"
+                "file": "_posts/2023-06-27-02-블로그 설정.md"
               }
             }
           }
@@ -148,6 +149,7 @@
   },
   "active": "01758dfca0012bfa",
   "lastOpenFiles": [
+    "_posts/2023-03-23-first.md",
     "_posts/2023-06-27-00-포스팅.md",
     "_posts/2023-06-27-01-이미지 삽입.md",
     "_posts/2023-06-27-02-블로그 설정.md",
@@ -159,7 +161,6 @@
     "CHANGELOG.md",
     "screenshot-layouts.png",
     "screenshot.png",
-    "_posts/2023-03-23-first.md",
     "_posts/2023-06-21-start.md",
     "_posts/2023-06-21-github.md",
     "_pages/tag-archive.md",
