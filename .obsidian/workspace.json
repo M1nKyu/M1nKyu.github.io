@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-06-27-01-이미지 삽입.md",
+                "file": "_posts/2023-03-23-first.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-06-27-01-이미지 삽입.md",
+                "file": "_posts/2023-03-23-first.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-06-27-01-이미지 삽입.md",
+                "file": "_posts/2023-03-23-first.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-06-27-01-이미지 삽입.md"
+                "file": "_posts/2023-03-23-first.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "01758dfca0012bfa",
   "lastOpenFiles": [
+    "_pages/category-archive.md",
+    "_posts/2023-06-27-01-이미지 삽입.md",
+    "_pages",
     "assets/images/mylogo.png",
     "assets/images",
     "_posts/2023-06-21-start.md",
-    "_posts/2023-06-27-01-이미지 삽입.md",
     "_posts/2023-06-21-github.md",
     "_posts/2023-03-23-first.md",
     "_posts/2023-06-27.md",
