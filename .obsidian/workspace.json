@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-06-29-07-검색엔진 등록.md",
+                "file": "_posts/2023-06-27-00-포스팅.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-06-29-07-검색엔진 등록.md",
+                "file": "_posts/2023-06-27-00-포스팅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-06-29-07-검색엔진 등록.md",
+                "file": "_posts/2023-06-27-00-포스팅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-06-29-07-검색엔진 등록.md"
+                "file": "_posts/2023-06-27-00-포스팅.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "01758dfca0012bfa",
   "lastOpenFiles": [
+    "_posts/2023-06-29-07-검색엔진 등록.md",
     "_posts/2023-06-29-06-목차,에러페이지.md",
     "_posts/2023-06-27-05-카테고리,태그.md",
     "_posts/2023-06-27-04-페이지, 타임존.md",
@@ -155,7 +156,6 @@
     "_posts/2023-06-27-02-블로그 설정.md",
     "_posts/2023-06-27-01-이미지 삽입.md",
     "_posts/2023-06-27-00-포스팅.md",
-    "_posts/2023-06-29-07-검색엔진 등록.md",
     "_posts/2023-03-23-first.md",
     "_posts/2023-06-29-목차, 페이지에러.md",
     "googlebbe06564ea07dabb.html",
